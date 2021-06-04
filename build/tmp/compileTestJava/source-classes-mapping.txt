@@ -1,0 +1,4 @@
+com/the/internet/herokuapp/automation/stepdefinitions/RegisterStepDefinition.java
+ com.the.internet.herokuapp.automation.stepdefinitions.RegisterStepDefinition
+com/the/internet/herokuapp/automation/runners/RegisterRunner.java
+ com.the.internet.herokuapp.automation.runners.RegisterRunner

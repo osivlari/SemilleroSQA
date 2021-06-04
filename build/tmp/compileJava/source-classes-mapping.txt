@@ -1,0 +1,14 @@
+com/the/internet/herokuapp/automation/pageobjects/RedirectionPage.java
+ com.the.internet.herokuapp.automation.pageobjects.RedirectionPage
+com/the/internet/herokuapp/automation/models/Data.java
+ com.the.internet.herokuapp.automation.models.Data
+com/the/internet/herokuapp/automation/pageobjects/StatusCodesPage.java
+ com.the.internet.herokuapp.automation.pageobjects.StatusCodesPage
+com/the/internet/herokuapp/automation/steps/HomeStep.java
+ com.the.internet.herokuapp.automation.steps.HomeStep
+com/the/internet/herokuapp/automation/steps/RedirectionStep.java
+ com.the.internet.herokuapp.automation.steps.RedirectionStep
+com/the/internet/herokuapp/automation/steps/StatusCodesStep.java
+ com.the.internet.herokuapp.automation.steps.StatusCodesStep
+com/the/internet/herokuapp/automation/pageobjects/HomePage.java
+ com.the.internet.herokuapp.automation.pageobjects.HomePage
